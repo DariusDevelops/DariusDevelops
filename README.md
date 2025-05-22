@@ -1,33 +1,32 @@
-# 👋 Hi, I'm Darius Ciuciulete
+# 👋 Hi, I'm Darius
 
-- Final-year Computer Science student at the University of Westminster (Class of 2026)  
-- Full-time Operations Supervisor @ Amazon – leading teams, solving logistics & ops challenges  
-- Aspiring Cloud & Cybersecurity Specialist – learning by building, breaking, and securing systems
 
----
+## Currently Learning
 
-## 🧠 Currently Learning
-
--  AWS Certified Cloud Practitioner (CCP)
--  CompTIA Security+ (SY0-701)
--  Python automation (Boto3, scripting)
--  Terraform & Infrastructure-as-Code (IaC)
+- **AWS Certified Cloud Practitioner (CCP)** – Core AWS services, billing, and architecture fundamentals  
+- **CompTIA Security+ (SY0-701)** – Threats, vulnerabilities, secure design, and risk mitigation  
+- **Python Automation** – Scripting with `Boto3`, APIs, and workflow automation  
+- **Infrastructure as Code** – Using Terraform to provision and manage cloud infrastructure  
 
 ---
 
-## 🛠️ Projects
+##  Featured Projects
 
-| **Disaster Recovery SaaS** | Helping SMBs protect against outages, human error, and attacks with automated backups & security auditing | Node.js · AWS · MongoDB (WIP) |
+| **EasyMode** | A platform for organizing and managing personal and business assets through maps and scheduling | `React` · `Django REST` · `MongoDB` · `AWS` |
 
-## ⚙️ Toolbox
+---
 
-`Python` · `Java` · `JavaScript`· `Django` · `MySQL` · `Linux` · `Git` · `Bash` · `AWS (learning)` · `Docker (learning)` · `RESTful`
+## Toolbox
 
-## 📫 Let’s Connect
+`AWS EC2` · `S3` · `IAM` · `VPC` · `Boto3` · `Terraform` · `Python` · `Java` · `JavaScript` · `Django` · `React` · `Node.js` · `MySQL` · `MongoDB` · `Linux` · `Git` · `Bash` · `AWS ` · · `Docker (learning)` · `RESTful APIs`
+
+---
+
+## 📫 Let's Connect
 
 - [LinkedIn – Darius Ciuciulete](https://www.linkedin.com/in/darius-ciuciulete/)
 
 <!-- Optional flair: GitHub stats -->
-<!-- 
+<!--
 ![Darius's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusciuciulete&show_icons=true&theme=default)
 -->
