@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Darius Ciuciulete
 
-🎓 Final-year Computer Science student at the University of Westminster (Class of 2026)  
-💼 Full-time Operations Supervisor @ Amazon – leading teams, solving logistics & ops challenges  
-🛡️ Aspiring Cloud & Cybersecurity Specialist – learning by building, breaking, and securing systems
+- Final-year Computer Science student at the University of Westminster (Class of 2026)  
+- Full-time Operations Supervisor @ Amazon – leading teams, solving logistics & ops challenges  
+- Aspiring Cloud & Cybersecurity Specialist – learning by building, breaking, and securing systems
 
 ---
 
@@ -27,7 +27,6 @@
 
 - [LinkedIn – Darius Ciuciulete](https://www.linkedin.com/in/darius-ciuciulete/)
 
-- 
 <!-- Optional flair: GitHub stats -->
 <!-- 
 ![Darius's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusciuciulete&show_icons=true&theme=default)
