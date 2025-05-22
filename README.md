@@ -21,7 +21,7 @@
 
 ## ⚙️ Toolbox
 
-`Python` · `Java` · `Django` · `MySQL` · `Linux` · `Git` · `Bash` · `AWS (learning)` · `Docker (learning)` · `JavaScript`
+`Python` · `Java` · `JavaScript`· `Django` · `MySQL` · `Linux` · `Git` · `Bash` · `AWS (learning)` · `Docker (learning)` · `RESTful`
 
 ## 📫 Let’s Connect
 
