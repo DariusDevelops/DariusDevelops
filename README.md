@@ -6,6 +6,8 @@
 - **AWS Certified Cloud Practitioner** – Core AWS services, billing, and other fundamentals.
 - **CompTIA Security+** – Threats, vulnerabilities, secure design, and risk mitigation  
 
+![DariusDevelops’s statistics](https://github-readme-stats.vercel.app/api?username=DariusDevelops&show_icons=true&include_all_commits=true)
+
 
 ---
 
